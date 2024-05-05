@@ -1,2 +1,2 @@
 # COMP-4320
-COMP 4320 Introduction to Computer Networks with Saad Biaz
+COMP 4320 Spring 2024
